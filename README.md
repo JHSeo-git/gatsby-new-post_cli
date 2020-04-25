@@ -43,13 +43,7 @@ comments: true
 - npm
 
 ```bash
-npm install -D gatsby-new-post-cli
-```
-
-- yarn
-
-```bash
-yarn add -D gatsby-new-post-cli
+npm install gatsby-new-post-cli
 ```
 
 ### Usage
@@ -64,6 +58,4 @@ post
 
 0. run
 
-```bash
-▶  start     New Posts Create: 2020-04-24 22:04:30
-```
+![run](./assets/gatsby-new-post-cli.gif)
