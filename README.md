@@ -1,5 +1,8 @@
 # Gatsby New Post CLI
 
+- version: 0.0.1 : init
+- version: 0.0.2 : date-fns reinstall
+
 ## Theme
 
 - [gatsby-starter-lumen](https://github.com/alxshelepenok/gatsby-starter-lumen)
