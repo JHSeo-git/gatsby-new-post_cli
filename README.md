@@ -61,4 +61,4 @@ post
 
 0. run
 
-![run](./assets/gatsby-new-post-cli.gif)
+![run](assets/run_capture.png)
