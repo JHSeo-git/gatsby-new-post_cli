@@ -2,6 +2,9 @@
 
 - version: 0.0.1 : init
 - version: 0.0.2 : date-fns reinstall
+- version: 0.0.3 : minor fix
+- version: 0.0.4 : readme update
+- version: 0.0.5 : date format fix
 
 ## Theme
 
