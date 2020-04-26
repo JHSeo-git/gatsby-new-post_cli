@@ -1,6 +1,6 @@
 {
   "name": "gatsby-new-post-cli",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "cli for gatsby-lumen-starter create new post",
   "main": "cli.js",
   "bin": {
