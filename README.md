@@ -5,6 +5,9 @@
 - version: 0.0.3 : minor fix
 - version: 0.0.4 : readme update
 - version: 0.0.5 : date format fix
+- version: 0.1.0 : major fix update
+- version: 0.1.1, 0.1.2 : date format fix
+- version: 0.1.3 : readme image fix
 
 ## Theme
 
@@ -27,16 +30,16 @@ content
 
 ```text
 ---
-title: TIL
-date: "2020-04-02 20:14:11.224"
+title: new post title
+date: "2020-04-24 20:14:11.224"
 template: "post"
 draft: false
-slug: "til"
-category: "TIL"
+slug: "new-post-title"
+category: "Blog"
 tags:
   - "Blog"
   - "TIL"
-description: "Today I Learned"
+description: "new post title"
 comments: true
 ---
 ```
@@ -47,6 +50,12 @@ comments: true
 
 ```bash
 npm install gatsby-new-post-cli
+```
+
+- yarn
+
+```bash
+yarn add gatsby-new-post-cli
 ```
 
 ### Usage
@@ -61,4 +70,4 @@ post
 
 0. run
 
-![run](assets/run_capture.png)
+<img src="../gatsby-new-post-cli/assets/run_capture.png" />
