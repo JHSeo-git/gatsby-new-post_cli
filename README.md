@@ -70,4 +70,4 @@ post
 
 0. run
 
-<img src="../gatsby-new-post-cli/assets/run_capture.png" />
+<img src="./assets/run_capture.png" />
